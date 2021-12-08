@@ -8,6 +8,12 @@ footer {
   align-items: baseline;
 }
 
+.first__menu {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
 .footer_studio {
   color: white;
   font-family: 'Raleway-Regular',Arial,sans-serif;
