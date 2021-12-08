@@ -204,7 +204,7 @@ nav {
   display: flex;
 }
 
-.header_nav {
+.header_box {
   display: flex;
   overflow: hidden;
   padding: 25px 0 25px;
@@ -654,7 +654,6 @@ footer {
 
 .footer_logo {
   text-decoration: none;
-  margin-bottom: 20px;
 }
 
 .address__list {
