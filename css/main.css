@@ -1038,7 +1038,7 @@ label {
 }
 
 .checkbox:checked + .checkbox__info {
-  background-image: url("../../../../img/icons/icon_check.svg");
+  background-image: url("../img/icons/icon_check.svg");
   background-color: #2196f3;
   background-repeat: no-repeat;
   background-position: center;
