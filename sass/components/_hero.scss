@@ -2,8 +2,8 @@
   padding: 200px 0 200px;
   background-image:
           linear-gradient( to right, rgba(47, 48, 58, 0.4),
-                            rgba(47, 48, 58, 0.4) ),
-          url('../img/img-hero.jpg');
+                            rgba(47, 48, 58, 0.4)),
+                            url("../../img/img-hero.jpg");
   width: 100%;
   background-position: center;
   background-size: cover;
@@ -14,6 +14,7 @@
   height: 100vh;
   width: 100%;
   background: #2F303A;
+  overflow: hidden;
 }
 
 .hero__title {
