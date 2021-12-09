@@ -1,4 +1,4 @@
-.section-header {
+.hero{
   padding: 200px 0 200px;
   background-image:
           linear-gradient( to right, rgba(47, 48, 58, 0.4),
@@ -9,14 +9,14 @@
   background-size: cover;
 }
 
-.header {
+.hero {
   display: inline-block;
   height: 100vh;
   width: 100%;
   background: #2F303A;
 }
 
-.section-header__title {
+.hero__title {
   margin-bottom: 30px;
   text-align: center;
   color: white;
@@ -29,7 +29,7 @@
   text-transform: uppercase;
 }
 
-.section-header__button {
+.hero__button {
   display: flex;
   justify-content: center;
   justify-items: center;

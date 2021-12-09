@@ -1,5 +1,5 @@
 header {
-  height: max-content;
+  display: block;
   width: 100%;
   background: #fff;
   border-bottom: 1px solid #ECECEC;
@@ -9,8 +9,7 @@ nav {
   display: flex;
 }
 
-
-.header_box {
+.header {
   display: flex;
   overflow: hidden;
   padding: 25px 0 25px;
