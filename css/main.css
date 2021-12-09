@@ -326,7 +326,7 @@ nav {
   top: 1px;
 }
 
-.hero {
+.hero-img {
   padding: 200px 0 200px;
   background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url("../img/img-hero.jpg");
   width: 100%;
